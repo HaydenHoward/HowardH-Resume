@@ -7,7 +7,8 @@ Computer scientist with interests in data science, machine learning and programm
 
 <div id="webaddress">
 <a href="haydex75@gmail.com">haydex75@gmail.com</a>
-| <a href="www.linkedin.com/in/hayden-howard">LinkedIn</a>
+| <a href="www.linkedin.com/in/hayden-howard">LinkedIn: www.linkedin.com/in/hayden-howard</a>
+<a href="https://github.com/HaydenHoward">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -25,9 +26,10 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ## Skills
 
 ### Programming Languages
-- Python | C# | Java Script | CSS | HTML | SQL
+- Python, C#, Java Script, CSS, HTML, SQL
 ### Technical
--  MYSQL Workbench, Git, GitHub, Unity
+- MYSQL Workbench, Git, GitHub, Unity
+
 ## Related Experience
 
 <!-- ### Internships

@@ -1,89 +1,83 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Hayden Howard's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Hayden Howard
+Computer scientist with interests in data science, machine learning and programming.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="haydex75@gmail.com">haydex75@gmail.com</a>
+| <a href="www.linkedin.com/in/hayden-howard">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected Fall 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.969 Major GPA
+- Bachelors in Computer Science 
+- Minor in Data Science
 
 
 ## Related Experience
 
-### Internships
+<!-- ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`May 2023 - August 2023`
+__Hill Airforce Base__, Hill AFB, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Haven't worked yet
+ -->
 
-### Data Science Lead
+### Game Developer Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`September 2022 - December 2022`
+__Group Project__, Project Manager
+- Organized meetings with other group members, discussing projects and scopes of what 
+needed to be implemented
+- Applied Unity to develop three maps, two selection screens, and game objects
+-  Implemented classes in C# to perform game logic for two players
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+### Front-End Developer
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`January 2022 - April 2022`
+__Association Computer Machinery__, Get It Done
+- Cooperated with a team to complete a web applications front end using react js
+- Provided suggestions aiding in designing and developing Get It Done
+- Learned to process Git commands to work on code with a team
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+### A.I. Generative Art
 
-### Data Science Consulting Team
+`March 2022`
+__USU Hackathon__, Logan, UT
+- Studied for hours peering over open-sourced code looking for ways to code a GAN model in 
+python
+- Engaged in four technical workshops to acquire better knowledge in robotics, and teamwork, 
+and expand networks
+- Utilized TensorFlow, Keras, PIL, numpy, and matplotlib to produce generated images 
+trained using 50 epochs from a generative adversarial network to place as a finalist in 
+machine learning and AI category in under a 24-hour period
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`January 2022 - December 2022`
+__Web Development Tutor__, BYU-I
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2023`
+__Deck Hand__, Valdez, AK
 
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
+
 
 

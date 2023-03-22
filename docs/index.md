@@ -26,8 +26,11 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ## Skills
 
 ### Programming Languages
+
 - Python, C#, Java Script, CSS, HTML, SQL
+
 ### Technical
+
 - MYSQL Workbench, Git, GitHub, Unity
 
 ## Related Experience

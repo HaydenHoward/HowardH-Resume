@@ -22,7 +22,12 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Bachelors in Computer Science 
 - Minor in Data Science
 
+## Skills
 
+### Programming Languages
+- Python | C# | Java Script | CSS | HTML | SQL
+### Technical
+-  MYSQL Workbench, Git, GitHub, Unity
 ## Related Experience
 
 <!-- ### Internships
